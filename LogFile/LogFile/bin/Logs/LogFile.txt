@@ -1,0 +1,3 @@
+[10/26/2022 09:20:54]    (complete1)    MyApp1    someone1    oihuhsuccesrdrdsfully1    :RootMethod1
+[10/26/2022 10:01:19]    (complete1)    RootMethod1    MyApp1    someone1    :oihuhsuccesrdrdsfully1
+[10/26/2022 10:01:19]    (WARNING)    RootMethod2    ali App1    Ali    :hehehehehehehehehehehehehehehehe
