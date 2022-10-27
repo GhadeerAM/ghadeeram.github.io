@@ -1,0 +1,8 @@
+D:\Workspaces\LogFileLibrary\bin\Debug\netstandard2.0\LogFileLibrary.deps.json
+D:\Workspaces\LogFileLibrary\bin\Debug\netstandard2.0\LogFileLibrary.dll
+D:\Workspaces\LogFileLibrary\bin\Debug\netstandard2.0\LogFileLibrary.pdb
+D:\Workspaces\LogFileLibrary\obj\Debug\netstandard2.0\LogFileLibrary.AssemblyInfoInputs.cache
+D:\Workspaces\LogFileLibrary\obj\Debug\netstandard2.0\LogFileLibrary.AssemblyInfo.cs
+D:\Workspaces\LogFileLibrary\obj\Debug\netstandard2.0\LogFileLibrary.csproj.CoreCompileInputs.cache
+D:\Workspaces\LogFileLibrary\obj\Debug\netstandard2.0\LogFileLibrary.dll
+D:\Workspaces\LogFileLibrary\obj\Debug\netstandard2.0\LogFileLibrary.pdb
